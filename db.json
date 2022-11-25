@@ -1,0 +1,18 @@
+{
+  "itens": [
+  {
+    "id": 1,
+    "nome": "Chainsaw Man",
+    "descricao": "Mangá Japonês",
+    "valor": 50,
+    "categoria": "Livraria"
+  },
+  {
+    "id": 2,
+    "nome": "Nintendo Switch",
+    "descricao": "console da nintendo",
+    "valor": 1850.99,
+    "categoria": "Games e Consoles"
+  }
+]
+}
