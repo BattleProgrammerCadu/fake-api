@@ -2,17 +2,17 @@
   "produtos": [
     {
       "id": 1,
-      "data": "2020-02-04T13:00:24.744Z",
-      "descricao": "Salário",
-      "valor": 3500.00,
-      "categoria": "Salário"
+      "nome": "Chainsaw Man",
+      "descricao": "Mangá de lutinha",
+      "valor": 49,
+      "categoria": "Livraria"
     },
     {
       "id": 2,
-      "data": "2020-02-05T14:21:24.744Z",
-      "descricao": "Sapato Verde",
-      "valor": -235.99,
-      "categoria": "Vestuário"
+      "nome": "Nintendo Swtich",
+      "descricao": "Console da nintendo",
+      "valor": 2350.99,
+      "categoria": "Games e Consoles"
     }
   ],
   "contatos": [
